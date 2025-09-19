@@ -57,3 +57,7 @@ You can reach me via:
 This portfolio is open-source for learning and inspiration.  
 © 2025–Present Pratham Singhal. All Rights Reserved.
 
+## License
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).  
+You may view or fork this repository for personal or educational use, but you may not modify or redistribute it.
+
